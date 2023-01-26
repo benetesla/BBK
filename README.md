@@ -3,6 +3,8 @@ WEBSITE DE UMA CHURRASCARIA COM NODE JS E EXPRESS
 
 
 
-# DEPLOY
-![Captura de Tela (19)](https://user-images.githubusercontent.com/78994881/214964622-376b7994-eaa7-4b30-95ce-9d5ff7f51265.png)
-![Captura de Tela (20)](https://user-images.githubusercontent.com/78994881/214964629-75b333fd-cd4a-4d5e-b5bb-272d6c7ac2da.png)
+# WEB
+![Captura de Tela (21)](https://user-images.githubusercontent.com/78994881/214966656-3f2ea147-fd07-4f6b-9fe8-48cf3575a9f3.png)
+# MOBILE
+
+![Captura de Tela (22)](https://user-images.githubusercontent.com/78994881/214966660-c6e45e1b-2c5d-4c6d-999a-57917d21bb65.png)
